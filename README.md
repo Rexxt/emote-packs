@@ -8,5 +8,5 @@ Current emote packs:
 cropped pictures of my cats
 # [splatoon](splatoon/)
 gay little squid game
-# [misc](misc/)/[animated](ani/)
+# [misc](misc/)/[animated](misc/#animated)
 random emotes that are cool
