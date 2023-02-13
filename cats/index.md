@@ -1,0 +1,5 @@
+# cats [gh](https://github.com/Rexxt/emote-packs/cats)
+![feebyHmm](https://rexxt.github.io/emote-packs/cats/feebyHmm.png)
+![feebyStare](https://rexxt.github.io/emote-packs/cats/feebyStare.png)
+![goldyCalculation](https://rexxt.github.io/emote-packs/cats/goldyCalculation.png)
+![goldyZoom](https://rexxt.github.io/emote-packs/cats/goldyZoom.png)
